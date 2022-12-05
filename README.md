@@ -1,6 +1,6 @@
 #### Data sets and methodology notes for the article, "The C Fund at 35: Trust the Long-Term Data When Investing in the TSP"
 
-S&P 500 data is available on the official S&P site [here](https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview). 
+S&P 500 data is available on the official S&P site [here](https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview). Go to "documents" -> "additional info" -> "index earnings" to download the .xlsx file. 
 
 Monthly TSP fund returns data is available on the official tsp.gov site under "Fund Performance," [here](https://www.tsp.gov/fund-performance/). 
 
